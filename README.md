@@ -30,6 +30,3 @@ Follow these steps to run the project locally.
 pip install -r requirements.txt
 pip install flask joblib
 
-👨‍💻 Author
-Suraj Didwagh
-GitHub: https://github.com/surajdidwagh
